@@ -9,16 +9,18 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <!-- Spring Boot Training -->
-        <module>spring-boot-1</module>
-        <module>spring-boot-3</module>
-        <module>spring-boot-4</module>
-        <module>spring-boot-5-1</module>
 
         <!-- Spring Test Training-->
         <module>spring-test</module>
 
-        <!-- Other -->
+
+        <!-- Spring Boot Training -->
+        <!--
+        <module>spring-boot-1</module>
+        <module>spring-boot-3</module>
+        <module>spring-boot-4</module>
+        <module>spring-boot-5-1</module>
+        -->
         <!--<module>spring-boot-2</module>-->
     </modules>
 
