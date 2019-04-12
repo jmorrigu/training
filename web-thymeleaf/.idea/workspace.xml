@@ -32,7 +32,11 @@
       </file>
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="WelcomeController.java" pinned="false" current-in-tab="false">
@@ -77,6 +81,7 @@
         <option value="$PROJECT_DIR$/src/main/resources/static/css/main.css" />
         <option value="$PROJECT_DIR$/src/main/java/training/spring/controller/WelcomeController.java" />
         <option value="$PROJECT_DIR$/src/test/java/training/spring/controller/WelcomeControllerTest.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -96,7 +101,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-1928" />
     <option name="y" value="-320" />
     <option name="width" value="1936" />
@@ -230,15 +235,20 @@
       <option name="presentableId" value="Default" />
       <updated>1555070255724</updated>
       <workItem from="1555070264540" duration="593000" />
-      <workItem from="1555071107419" duration="3217000" />
+      <workItem from="1555071107419" duration="3507000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="training_spring_controller_in_web-thymeleaf - 2019.04.12 at 15h 03m 52s.xml">
+      <configuration name="training.spring.controller in web-thymeleaf" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3810000" />
+    <option name="totallyTimeSpent" value="4100000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-320" width="1936" height="1096" extended-state="6" />
+    <frame x="-1928" y="-320" width="1936" height="1096" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -348,7 +358,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
